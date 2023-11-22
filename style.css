@@ -22,3 +22,17 @@
     height: 600px;
 
 }
+
+
+div+a {
+    background-color: blue
+
+}
+
+div>h1 {
+    background-color:red
+}
+
+div p {
+    background-color: brown;
+}
